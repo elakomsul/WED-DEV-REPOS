@@ -1,0 +1,46 @@
+body {
+
+background-color: black;
+
+}
+	
+h1 {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+
+}
+
+h2 {
+	font-size: 35px;
+	color:#66cdbb;
+	font-style: elephant;
+	text-align: center;
+
+}
+
+h3 { 
+	font-size:20px; 
+	font-weight: 0.5;
+	color:#b9beff;
+	text-align: center;
+	font-family: times;
+
+}
+
+ul {
+	font-size:20px; 
+	color:#b9beff;
+	font-family: times;
+	list-style-position: inside;
+	text-align: center;
+	font-weight: lighter;
+	list-style-image: url('paw.png');
+}
+
+hr {
+background-color: #ff778b;
+height: 2px;
+}
+
+

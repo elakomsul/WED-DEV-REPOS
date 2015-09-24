@@ -7,7 +7,12 @@ background-color: black;
 h1 {
 	font-size: 40px;
 	color: white;
-	text-align: center;
+	position: fixed;
+	height:70px;
+    background:black;
+    border:1px solid #CCC;
+    width:960px;w
+    margin:0px auto;
 
 }
 
@@ -29,7 +34,7 @@ h3 {
 }
 
 ul {
-	font-size:20px; 
+	font-size:20px;
 	color:#b9beff;
 	font-family: times;
 	list-style-position: inside;
@@ -42,5 +47,8 @@ hr {
 background-color: #ff778b;
 height: 2px;
 }
+
+
+
 
 

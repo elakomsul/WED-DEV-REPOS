@@ -1,0 +1,39 @@
+body {
+
+background-color: white;
+
+}
+	
+h1 {
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	font-family: helvetica;
+
+}
+
+.text-align:center {
+	margin: 0 auto
+
+}
+
+#main {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.fixed {
+	position: fixed;
+  	top: 0;
+  	margin: 0 auto;
+  	left: 0;
+  	right: 0;
+}
+
+.header {
+    height:80px;
+    background:#e7cfbc;
+    border:1px solid #061615;
+    width:100%;
+    position: fixed;
+}

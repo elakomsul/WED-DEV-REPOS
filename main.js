@@ -1,6 +1,29 @@
 var myHeading = document.querySelector('h1');
 myHeading.innerHTML = 'Hello World!';
 
+
+if (x == 4) {
+	//do something
+
+}
+
+switch(x) {
+	case 4:
+	// do something
+	break;
+	case 5:
+	//do something
+	break;
+	case 6:
+	//do something
+	break;
+	default:
+	//do something
+	break;
+}
+
+
+
 var animals = ["dog", "cat", "bird"];
 
 var person = {};

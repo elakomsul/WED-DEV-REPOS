@@ -1,0 +1,57 @@
+body {
+
+background-image: url(space.jpg);
+
+}
+	
+h1 {
+	font-size: 60px;
+	color: white;
+	position: fixed;
+	height:70px;
+    background:black;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+    font-family: palatino;
+
+}
+
+h2 {
+	font-size: 30px;
+	color:#E65C00;
+	font-family: georgia;
+	text-align: center;
+
+}
+
+h3 { 
+	font-size:20px; 
+	font-weight: 0.5;
+	color:#b9beff;
+	text-align: center;
+	font-family: times;
+
+}
+
+ul {
+	font-size:20px;
+	color:#b9beff;
+	font-family: times;
+	list-style-position: inside;
+	text-align: center;
+	font-weight: lighter;
+	list-style-image: url('nasa.png');
+}
+
+hr {
+background-color: #FF3300;
+height: 3px;
+}
+
+
+
+
+
+
+

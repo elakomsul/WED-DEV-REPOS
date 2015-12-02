@@ -74,10 +74,9 @@ header .container {
 	text-align: center;
 	padding-bottom: 0px;
 	position: relative;
-	padding-top: 10px;
 }
 .box {
-	padding: 24px;
+	padding: 30px;
 	position: relative;
 }
 .aboutme p{
@@ -102,10 +101,6 @@ header .container {
 	border-left: 1px solid #5F682D;
 	height: 100px;
 	margin-top: 40px;
-}
-h1 {
-	color: black;
-	font-size: 30px;
 }
 
 /* ==========================================================================
